@@ -1,0 +1,21 @@
+<Response>
+  <Details>
+    <StatusCode>0</StatusCode>
+    <Message>AdoptionSuccessful</Message>
+    <MethodName>ProcessAdoption</MethodName>
+    <Caller>
+      <Environment>AnimalShelterDevServer</Environment>
+    </Caller>
+  </Details>
+  <Result>
+    <Adopter>
+      <Name>StenBone Family</Name>
+    </Adopter>
+    <KittenInfo>
+      <Name>Rosie Stone</Name>
+      <Fur>grey</Fur>
+      <Attitude>rambunctious</Attitude>
+      <Species>Russian Grey</Species>
+    </KittenInfo>
+  </Result>
+</Response>
